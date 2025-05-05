@@ -37,6 +37,9 @@ _Manager and organizer of student-led security workshops and competitions._
 🔍 **Bug Bounty & THC Workshops**  
 _Actively participate in bug bounty competitions and attended IoT pentesting workshops at the Toulouse Hacking Convention._
 
+📝 **Wocshack 2025 Write-ups**  
+_Sharing my write-ups from the Wocshack 2025 competition, covering challenges related to cybersecurity and reverse engineering._
+
 🔧 **Internship @ Continental Automotive (2024)**  
 _Embedded systems project on piezoelectric control._
 

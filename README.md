@@ -56,8 +56,9 @@ _Embedded systems project on piezoelectric control._
   [![Samuride Card](https://github-readme-stats.vercel.app/api/pin?username=M3RICK&repo=Samuride&theme=gotham)](https://github.com/M3RICK/Samuride)
 </details>
 
-<div align="center">
-  <img src="https://github.com/M3RICK/M3RICK/raw/main/ezgif-6-8e715c35eb.webp" width="120" />
+<!-- Flex container for the GIFs with more space on the sides -->
+<div align="center" style="display: flex; justify-content: center; gap: 10000px; margin-left: 20000px; margin-right: 2000px;">
+  <img src="https://github.com/M3RICK/M3RICK/blob/main/jinx.webp" width="360" />
 </div>
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:aymeric.lamanda@epitech.eu)

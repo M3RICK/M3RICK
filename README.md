@@ -1,12 +1,11 @@
-<h1 align="center">👋 Hey, I'm Aymeric Lamanda</h1>
+<h1 align="center">👋 Hey, I'm M3RICK </h1>
 <p align="center">
-🎓 Epitech Toulouse Student &nbsp;|&nbsp; 🛡️ Cybersecurity Enthusiast &nbsp;|&nbsp; 🎮 Game Developer  
+Epitech Toulouse Student &nbsp;|&nbsp;  Cybersecurity Enthusiast &nbsp;|&nbsp; Game Developer  
 </p>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=M3RICK&style=flat&color=blue)
-</p>
-
+<a href="https://github.com/M3RICK">
+  <img align="right" width ="%" src="https://komarev.com/ghpvc/?username=M3RICK&style=for-the-badge&color=blue">
+</a>
 ---
 
 ### 🚀 About Me
@@ -45,17 +44,17 @@ _Embedded systems project on piezoelectric control._
 
 ### 📊 My Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3RICK&layout=default&theme=default&langs_count=4" />
-</p>
+<div align="center">
+<br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M3RICK&theme=blood-dark&border_radius=5&border=EB5454&fire=EBD822" alt="GitHub Streak" /></a>
+</div>
+<br>
 
----
+<details close align="center">
+  <summary>📁 More Repositories</summary><br>
+    
+  [![Samuride Card](https://github-readme-stats.vercel.app/api/pin?username=M3RICK&repo=Samuride&theme=gotham)](https://github.com/M3RICK/Samuride)
 
-### 📫 Contact Me
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/aymeric-lamanda)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:aymeric.lamanda@epitech.eu)
-
----
-
-> _“The quieter you become, the more you are able to hear.”_ — Rumi

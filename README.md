@@ -28,9 +28,6 @@ _Converts between XML, JSON, and Markdown using a homemade parsing library in Ha
 🎮 **Jetpack Joyride Multiplayer**  
 _Built from scratch with C++ and SFML. Includes client-server architecture and anti-cheat logic._
 
-💡 **Raytracer**  
-_Object-oriented C++ rendering engine to sharpen OOP and graphics programming._
-
 🏴‍☠️ **Cybersecurity Club @ Epitech**  
 _Manager and organizer of student-led security workshops and competitions._
 

@@ -22,22 +22,25 @@ Epitech Toulouse Student &nbsp;|&nbsp;  Cybersecurity Enthusiast &nbsp;|&nbsp; G
 
 ### 🧠 Notable Projects
 
-📄 **myPandoc**  
+**myPandoc**  
 _Converts between XML, JSON, and Markdown using a homemade parsing library in Haskell._
 
-🎮 **Jetpack Joyride Multiplayer**  
+**Jetpack Joyride Multiplayer**  
 _Built from scratch with C++ and SFML. Includes client-server architecture and anti-cheat logic._
 
-🏴‍☠️ **Cybersecurity Club @ Epitech**  
+**Cybersecurity Club @ Epitech**  
 _Manager and organizer of student-led security workshops and competitions._
 
-🔍 **Bug Bounty & THC Workshops**  
+**Bug Bounty & THC Workshops**  
 _Actively participate in bug bounty competitions and attended IoT pentesting workshops at the Toulouse Hacking Convention._
 
-📝 **Wocshack 2025 Write-ups**  
+**Wocshack 2025 Write-ups**  
 _Sharing my write-ups from the Wocshack 2025 competition, covering challenges related to cybersecurity and reverse engineering._
 
-🔧 **Internship @ Continental Automotive (2024)**  
+**Root-Me Challenges**
+_Discovering Forensics and more._
+
+**Internship @ Continental Automotive (2024)**  
 _Embedded systems project on piezoelectric control._
 
 <div align="center">

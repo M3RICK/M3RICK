@@ -43,11 +43,6 @@ _Discovering Forensics and more._
 **Internship @ Continental Automotive (2024)**  
 _Embedded systems project on piezoelectric control._
 
-<div align="center">
-<br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=M3RICK&theme=blood-dark&border_radius=5&border=EB5454&fire=EBD822" alt="GitHub Streak" /></a>
-</div>
-<br>
 
 <details close align="center">
   <summary>📁 More Repositories</summary><br>

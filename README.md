@@ -140,7 +140,7 @@ Complete game recreation featuring custom client-server architecture and integra
 
 Documenting security challenges and vulnerability research. Coverage includes web exploitation, binary analysis, reverse engineering, and forensics.
 
-<a href="[https://github.com/M3RICK](https://github.com/M3RICK/WriteUps)">
+<a href="https://github.com/M3RICK/WriteUps">
   <img src="https://img.shields.io/badge/View_Write--Ups-7c3aed?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups">
 </a>
 

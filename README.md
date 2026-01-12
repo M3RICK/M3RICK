@@ -83,6 +83,8 @@ Complete compiler implementation in Haskell featuring C-like syntax, type infere
 
 Interactive coaching system with AI-driven feedback. Players explore an interactive Summoner's Rift map with GSAP-powered animations to receive zone-based performance analysis. Features dual-mode feedback and real-time Riot API integration.
 
+🏆 *Roast Master 3000 Prize Winner - AWS x Riot Games Hackathon 2025*
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">

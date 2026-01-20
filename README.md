@@ -37,7 +37,8 @@ Core Interests: Anti-cheat Systems • Multiplayer Networking • Compiler Desig
 ### Continental Automotive — Embedded Systems R&D
 **2024**
 
-Developed a proof-of-concept **piezoelectric control system** for rotor temperature sensors on embedded microcontrollers. Implemented precise signal conversion, low-energy optimization, and safety-critical features including watchdog timers and voltage monitoring.
+- Implemented embedded control logic in C for a piezoelectric rotor temperature sensing system on microcontrollers (real-time, low-power constraints)
+- Validated design, contributed to industrialization and patent protection
 
 **Outcome:** System validated, commercialized, and patented.
 

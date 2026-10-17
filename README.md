@@ -44,6 +44,24 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 <tr>
 <td>
 
+### Neurofounders — Security & Technical Audit (Internship)
+**Apr – Jul 2026 · 4 months**
+
+- Conducted technical audits of a subscription media platform — product/UX, access control, privacy, and web performance
+- Delivered 8 findings reports to the founder, each documenting the issue and a clear, actionable recommendation
+- Translated technical risks into plain language for a non-technical decision-maker
+
+<p>
+  <img src="https://img.shields.io/badge/Security%20Audit-7c3aed?style=flat-square" alt="Security Audit">
+  <img src="https://img.shields.io/badge/Technical%20Writing-0078D4?style=flat-square" alt="Technical Writing">
+  <img src="https://img.shields.io/badge/Web%20Performance-FF6F00?style=flat-square" alt="Web Performance">
+</p>
+
+</td>
+</tr>
+<tr>
+<td>
+
 ### Continental Automotive — Embedded Systems R&D
 **2024**
 

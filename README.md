@@ -5,9 +5,6 @@
 **Epitech Toulouse** • Cybersecurity • Digital Forensics • Reverse Engineering
 
 <p>
-  <a href="https://github.com/M3RICK">
-    <img src="https://komarev.com/ghpvc/?username=M3RICK&style=flat-square&color=7c3aed" alt="Profile Views">
-  </a>
   <img src="https://img.shields.io/badge/Focus-Security%20%26%20Systems-7c3aed?style=flat-square" alt="Focus">
   <img src="https://img.shields.io/badge/Location-Toulouse%2C%20France-7c3aed?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/🇫🇷-0055A4?style=flat-square" alt="France">

@@ -62,7 +62,7 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 <tr>
 <td>
 
-### Continental Automotive — Embedded Systems R&D
+### Continental Automotive — Embedded Systems R&D (Internship)
 **2024**
 
 - Implemented embedded control logic in C for a piezoelectric rotor temperature sensing system on microcontrollers (real-time, low-power constraints)

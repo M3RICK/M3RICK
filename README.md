@@ -248,16 +248,6 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 
 ---
 
-## Languages
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3RICK&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-</div>
-
----
-
 <div align="center">
   <img src="https://github.com/M3RICK/M3RICK/blob/main/jinx.webp" width="400" alt="Banner">
 </div>

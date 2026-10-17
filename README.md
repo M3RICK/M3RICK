@@ -9,12 +9,17 @@
     <img src="https://komarev.com/ghpvc/?username=M3RICK&style=flat-square&color=7c3aed" alt="Profile Views">
   </a>
   <img src="https://img.shields.io/badge/Focus-Security%20%26%20Systems-7c3aed?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Toulouse%2C%20FR-7c3aed?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/Location-Toulouse%2C%20France-7c3aed?style=flat-square" alt="Location">
+  <img src="https://img.shields.io/badge/🇫🇷-0055A4?style=flat-square" alt="France">
 </p>
 
 <a href="https://github.com/M3RICK">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Digital+Forensics+%28DFIR%29;Reverse+Engineering;Low-level+%26+Systems+%E2%80%94+Rust%2C+C%2C+C%2B%2B;CTF+%26+Blue+Team" alt="Typing SVG">
 </a>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055A4,50:ffffff,100:EF4135&height=4&width=600" alt="tricolore" />
 
 </div>
 
@@ -246,11 +251,10 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 
 ---
 
-## GitHub Stats
+## Languages
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=M3RICK&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9" alt="Stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3RICK&layout=compact&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>

@@ -26,8 +26,7 @@
 
 Student at Epitech Toulouse, focused on cybersecurity: **digital forensics (DFIR),
 reverse engineering and low-level / systems programming**. I build security tooling
-from scratch and practice on CTF and blue-team platforms. Manager of Epitech's
-cybersecurity club. I came to reverse engineering through game integrity and
+from scratch and practice on CTF and blue-team platforms. I came to reverse engineering through game integrity and
 anti-cheat, which is still a side interest.
 
 ```yaml

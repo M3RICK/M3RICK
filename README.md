@@ -90,7 +90,7 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 
 **Security Research & Write-Ups**
 
-Detailed write-ups from CTF challenges: network enumeration, web exploitation, privilege escalation, and forensics.
+DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
 
 <a href="https://github.com/M3RICK/WriteUps">
   <img src="https://img.shields.io/badge/View_Write--Ups-7c3aed?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups">
@@ -115,14 +115,14 @@ Defensive security challenges and digital forensics investigations.
 
 **Cybersecurity Club @ Epitech**
 
-Manager and lead organizer of student-led security workshops, CTF competitions, and training sessions.
+Organized weekly CTF practice sessions (Root-Me, HackTheBox).
 
 </td>
 <td width="50%" valign="top">
 
 **Bug Bounty & Conferences**
 
-Active in responsible disclosure (WOCS'hACK 2025). Attended IoT pentesting workshops at Toulouse Hacking Convention (THC).
+Took part in the WOCS'hACK 2025 bug bounty competition ([4 reports](https://github.com/M3RICK/WOCS_hACK2025)). Attended IoT pentesting workshops at Toulouse Hacking Convention (THC).
 
 </td>
 </tr>

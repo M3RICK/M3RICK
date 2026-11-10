@@ -32,6 +32,7 @@ anti-cheat, which is still a side interest.
 ```yaml
 Focus:             Digital Forensics (DFIR) · Reverse Engineering · Low-level / Systems
 Currently Learning: Rust · Windows Internals · Binary Reverse Engineering
+Exchange:          Inha University, Incheon, South Korea (2026-2027)
 Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 ```
 

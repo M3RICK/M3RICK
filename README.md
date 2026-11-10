@@ -62,19 +62,17 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 <tr>
 <td>
 
-### Continental Automotive — Embedded Systems R&D (Internship)
-**2024**
+### Continental Automotive (now Aumovio), Embedded Software Intern
+**Aug – Dec 2024 · Toulouse · R&D Passive Safety & Sensoring**
 
-- Implemented embedded control logic in C for a piezoelectric rotor temperature sensing system on microcontrollers (real-time, low-power constraints)
-- Validated design, contributed to industrialization and patent protection
-
-**Outcome:** System validated, commercialized, and patented.
+- Wrote the C proof of concept for a new sensor on a Renesas RL78/F13, from board bring-up to validated features
+- Generated timed pulse patterns with hardware timers and prescalers; drove peripherals over SPI, I2C and UART
+- Wrote toolchain setup and handover docs; the team then ran my code on the boards for their live lab tests
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/Embedded-FF6F00?style=flat-square&logo=arm&logoColor=white" alt="Embedded">
   <img src="https://img.shields.io/badge/Microcontrollers-0078D4?style=flat-square" alt="MCU">
-  <img src="https://img.shields.io/badge/Signal%20Processing-7c3aed?style=flat-square" alt="DSP">
 </p>
 
 </td>

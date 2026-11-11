@@ -18,6 +18,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055A4,50:ffffff,100:EF4135&height=4&width=600" alt="tricolore" />
 
+<br>
+<br>
+
+<img src="https://github.com/M3RICK/M3RICK/raw/main/jinx.webp" width="520" alt="Banner">
+
 </div>
 
 ---
@@ -261,9 +266,3 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
     <img src="https://img.shields.io/badge/Blue_Team_Labs-0078D4?style=for-the-badge&logo=security&logoColor=white" alt="Blue Team Labs">
   </a>
 </p>
-
----
-
-<div align="center">
-  <img src="https://github.com/M3RICK/M3RICK/blob/main/jinx.webp" width="400" alt="Banner">
-</div>

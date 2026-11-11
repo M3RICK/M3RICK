@@ -139,10 +139,6 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([4 reports](https://gith
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="42%" valign="top">
-
 ### evtx_timeline
 **Windows Event Log forensic tool — Rust**
 
@@ -152,20 +148,15 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/DFIR-7c3aed?style=flat-square" alt="DFIR">
   <img src="https://img.shields.io/badge/Forensics-FF6F00?style=flat-square" alt="Forensics">
+  &nbsp;
+  <a href="https://github.com/M3RICK/evtx_timeline">
+    <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository">
+  </a>
 </p>
 
-<a href="https://github.com/M3RICK/evtx_timeline">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-</a>
+<img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.png" width="860" alt="evtx_timeline sample output — account creation escalating to local Administrators">
 
-</td>
-<td valign="middle">
-
-<img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.svg" width="460" alt="evtx_timeline sample output">
-
-</td>
-</tr>
-</table>
+<sub><i>Real output on a sample Security.evtx — a sequence of account-creation events escalating to the local Administrators group, flagged by severity.</i></sub>
 
 **Other projects**
 

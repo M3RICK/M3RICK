@@ -19,7 +19,7 @@ Cybersecurity • Digital Forensics • Reverse Engineering
 </p>
 
 <a href="https://github.com/M3RICK">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&vCenter=true&width=420&lines=Digital+Forensics+%28DFIR%29;Reverse+Engineering;Low-level+%26+Systems+%E2%80%94+Rust%2C+C%2C+C%2B%2B;CTF+%26+Blue+Team" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&vCenter=true&width=420&lines=Digital+Forensics+%28DFIR%29;Reverse+Engineering;Low-level+%26+Systems+%E2%80%94+Rust%2C+C%2C+C%2B%2B;Blue+Team" alt="Typing SVG">
 </a>
 
 </td>

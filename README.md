@@ -30,7 +30,7 @@ Cybersecurity • Digital Forensics • Reverse Engineering
 
 ---
 
-### About
+## About
 
 Student at Epitech Toulouse, focused on cybersecurity: **digital forensics (DFIR),
 reverse engineering and low-level / systems programming**. I build security tooling

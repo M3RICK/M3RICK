@@ -141,7 +141,7 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([4 reports](https://gith
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
 ### evtx_timeline
 **Windows Event Log forensic tool — Rust**
@@ -159,17 +159,28 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td valign="middle">
+
+<img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.svg" width="460" alt="evtx_timeline sample output">
+
+</td>
+</tr>
+</table>
+
+**Other projects**
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### GLaDOS
-**Custom Programming Language & Compiler**
+**Language & Compiler**
 
-Complete compiler in Haskell: C-like syntax, type inference, bytecode compiler and a custom virtual machine, plus a linker for multi-file compilation and relocatable object files.
+Compiler in Haskell: C-like syntax, type inference, bytecode compiler, custom VM, and a linker for multi-file compilation with relocatable object files.
 
 <p>
   <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell">
   <img src="https://img.shields.io/badge/Compiler-7c3aed?style=flat-square" alt="Compiler">
-  <img src="https://img.shields.io/badge/VM-FF6F00?style=flat-square" alt="VM">
 </p>
 
 <a href="https://github.com/M3RICK/GLaDOS">
@@ -177,10 +188,7 @@ Complete compiler in Haskell: C-like syntax, type inference, bytecode compiler a
 </a>
 
 </td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Samuride
 **Multiplayer game — custom binary protocol (C++)**
@@ -198,7 +206,7 @@ Client-server game in C++/SFML with a custom binary TCP protocol (typed message 
 </a>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Rift Rewind
 **AWS x Riot Games Hackathon — prize winner**

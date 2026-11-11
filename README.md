@@ -21,7 +21,7 @@
 <br>
 <br>
 
-<img src="https://github.com/M3RICK/M3RICK/raw/main/jinx.webp" width="520" alt="Banner">
+<img src="https://github.com/M3RICK/M3RICK/raw/main/jinx.webp" width="360" alt="Banner">
 
 </div>
 

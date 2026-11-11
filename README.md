@@ -1,8 +1,16 @@
-<div align="center">
+<table>
+<tr>
+<td width="340" valign="middle">
+
+<img src="https://github.com/M3RICK/M3RICK/raw/main/jinx.webp" width="320" alt="Banner">
+
+</td>
+<td valign="middle">
 
 # M3RICK
 
-**Epitech Toulouse** • Cybersecurity • Digital Forensics • Reverse Engineering
+**Epitech Toulouse**
+Cybersecurity • Digital Forensics • Reverse Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Focus-Security%20%26%20Systems-7c3aed?style=flat-square" alt="Focus">
@@ -11,19 +19,14 @@
 </p>
 
 <a href="https://github.com/M3RICK">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Digital+Forensics+%28DFIR%29;Reverse+Engineering;Low-level+%26+Systems+%E2%80%94+Rust%2C+C%2C+C%2B%2B;CTF+%26+Blue+Team" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&vCenter=true&width=420&lines=Digital+Forensics+%28DFIR%29;Reverse+Engineering;Low-level+%26+Systems+%E2%80%94+Rust%2C+C%2C+C%2B%2B;CTF+%26+Blue+Team" alt="Typing SVG">
 </a>
 
-<br>
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055A4,50:ffffff,100:EF4135&height=4&width=600" alt="tricolore" />
-
-<br>
-<br>
-
-<img src="https://github.com/M3RICK/M3RICK/raw/main/jinx.webp" width="360" alt="Banner">
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055A4,50:ffffff,100:EF4135&height=4&width=880" alt="tricolore" />
 
 ---
 

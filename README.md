@@ -129,7 +129,7 @@ Organized weekly CTF practice sessions (Root-Me, HackTheBox).
 
 **Bug Bounty & Conferences**
 
-Took part in the WOCS'hACK 2025 bug bounty competition ([4 reports](https://github.com/M3RICK/WOCS_hACK2025)). Attended IoT pentesting workshops at Toulouse Hacking Convention (THC).
+Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://github.com/M3RICK/WOCS_hACK2025)). Attended IoT pentesting workshops at Toulouse Hacking Convention (THC).
 
 </td>
 </tr>

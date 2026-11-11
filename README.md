@@ -154,7 +154,7 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
   </a>
 </p>
 
-<img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.png" width="860" alt="evtx_timeline sample output — account creation escalating to local Administrators">
+<img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.png" width="620" alt="evtx_timeline sample output — account creation escalating to local Administrators">
 
 <sub><i>Real output on a sample Security.evtx — a sequence of account-creation events escalating to the local Administrators group, flagged by severity.</i></sub>
 

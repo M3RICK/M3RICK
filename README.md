@@ -12,9 +12,9 @@
 **Epitech Toulouse**
 Cybersecurity • Digital Forensics • Reverse Engineering
 
-<sub>Based in Incheon, South Korea · French national</sub>
+📍 **Incheon, South Korea** &nbsp;·&nbsp; 🇫🇷 **French national**
 
-<img src="assets/hexdump.svg" width="390" alt="DFIR / Reverse / Systems / Rust, C">
+<img src="assets/hexdump.svg?v=2" width="390" alt="DFIR / Reverse / Systems / Rust, C">
 
 </td>
 </tr>

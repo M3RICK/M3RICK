@@ -174,7 +174,7 @@ Compiler in Haskell: C-like syntax, type inference, bytecode compiler, custom VM
 <td width="33%" valign="top">
 
 ### Samuride
-**Multiplayer game — custom binary protocol (C++)**
+**Multiplayer game & custom binary protocol (C++)**
 
 Client-server game in C++/SFML with a custom binary TCP protocol (typed message headers, state sync). My entry point into networking and anti-cheat / game integrity.
 
@@ -192,11 +192,11 @@ Client-server game in C++/SFML with a custom binary TCP protocol (typed message 
 <td width="33%" valign="top">
 
 ### Rift Rewind
-**AWS x Riot Games Hackathon — prize winner**
+**AWS x Riot Games Hackathon, prize winner**
 
 League of Legends analysis platform with Riot API integration and AI-driven feedback.
 
-🏆 *[Roast Master 3000 Prize](https://devpost.com/software/jinx-s-workshop) — AWS x Riot Games Hackathon 2025*
+🏆 *[Roast Master 3000 Prize](https://devpost.com/software/jinx-s-workshop) - AWS x Riot Games Hackathon 2025*
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">

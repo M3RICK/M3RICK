@@ -218,11 +218,11 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 | | |
 |:--|:--|
 | **Languages** | C · C++ · Rust · Python · Haskell · x86 Assembly |
-| **Forensics & Detection** | Windows Event Logs (EVTX) · Linux auth logs · Sigma · Suricata · MITRE ATT&CK |
+| **Forensics & Detection** | Windows Event Logs (EVTX) · Sysmon · Linux auth logs · Sigma · Suricata · MITRE ATT&CK |
 | **Fuzzing & Debugging** | libFuzzer · AddressSanitizer · UBSan · Clang |
 | **Network & Web** | Wireshark · Nmap · Burp Suite · Hydra · Chisel |
 | **Embedded** | Renesas RL78 · SPI · I2C · UART |
-| **Environment** | Linux · Exegol · Docker · Git · Typst |
+| **Environment** | Linux · Exegol · Docker · Git · jq · Typst |
 | **Learning** | Ghidra |
 
 ---

@@ -9,12 +9,7 @@
 
 # M3RICK
 
-**Epitech Toulouse**
-Cybersecurity • Digital Forensics • Reverse Engineering
-
-📍 **Incheon, South Korea** &nbsp;·&nbsp; 🇫🇷 **French national**
-
-<img src="assets/hexdump.svg?v=2" width="390" alt="DFIR / Reverse / Systems / Rust, C">
+<img src="assets/hexdump.svg?v=4" width="420" alt="Built: evtx_timeline, EVTX forensics in Rust. Now: fuzzing a C filesystem parser. Learning: DFIR investigations, HTB Sherlocks. Open to: part-time security role, Sept 2027.">
 
 </td>
 </tr>
@@ -27,13 +22,14 @@ Cybersecurity • Digital Forensics • Reverse Engineering
 ## About
 
 Student at Epitech Toulouse, focused on cybersecurity: **digital forensics (DFIR),
-reverse engineering and low-level / systems programming**. I build security tooling
-from scratch and practice on CTF and blue-team platforms. I came to reverse engineering through game integrity and
-anti-cheat, which is still a side interest.
+fuzzing and low-level / systems programming**. I build security tooling
+from scratch and practice on CTF and blue-team platforms. Reverse engineering is what I am picking up next:
+I came to it through game integrity and anti-cheat, which is still a side interest.
 
 ```yaml
-Focus:             Digital Forensics (DFIR) · Reverse Engineering · Low-level / Systems
-Currently Learning: Rust · Windows Internals · Binary Reverse Engineering
+Focus:             Digital Forensics (DFIR) · Fuzzing · Low-level / Systems
+Currently Learning: Rust · DFIR investigations (HTB Sherlocks)
+Next:              Reverse Engineering (Ghidra)
 Exchange:          Inha University, Incheon, South Korea (2026-2027)
 Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 ```
@@ -217,35 +213,11 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 
 ## Technical Stack
 
-<details>
-<summary><b>Click to expand</b></summary>
-<br>
-
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Assembly](https://img.shields.io/badge/x86_Assembly-0078D4?style=flat-square)
-
-**Security & Forensics**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square)
-![Exegol](https://img.shields.io/badge/Exegol-7c3aed?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Learning / Familiar**
-
-![IDA](https://img.shields.io/badge/IDA_Pro-00599C?style=flat-square)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=flat-square)
-![Windows](https://img.shields.io/badge/Windows_Internals-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-</details>
+| | |
+|:--|:--|
+| **Languages** | C · C++ · Rust · Python · Haskell · x86 Assembly |
+| **Security & Forensics** | Wireshark · Burp Suite · Exegol · Linux · Docker · Git |
+| **Learning** | IDA Pro · Ghidra · Windows Internals |
 
 ---
 

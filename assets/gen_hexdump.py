@@ -7,7 +7,7 @@ DUR = 12.0    # full loop, seconds
 STEP = 0.12   # delay between two bytes
 END = 0.95    # fraction of the loop where everything resets
 
-GRAY, PURPLE = "#8b949e", "#7C3AED"
+GRAY, ACCENT = "#8b949e", "#0A8FD4"  # Jinx blue, readable on light and dark themes
 
 
 def anim(*pairs):
@@ -34,13 +34,13 @@ def main():
         for i, byte in enumerate(word.encode().ljust(WIDTH, b"\0")):
             pad = byte == 0
             hx, ax = 82 + i * 25, 296 + i * 9
-            out.append(f'<text x="{hx}" y="{y}" fill="{GRAY if pad else PURPLE}">{byte:02x}'
+            out.append(f'<text x="{hx}" y="{y}" fill="{GRAY if pad else ACCENT}">{byte:02x}'
                        f'{anim((0, 0), (t, 0.4 if pad else 1), (end, 0))}</text>')
             # dot placeholder while the byte is "raw", then the decoded character
             out.append(f'<text x="{ax}" y="{y}" fill="{GRAY}" opacity="0">.'
                        f'{anim((0, 0), (t, 1), (decode, 1 if pad else 0), (end, 0))}</text>')
             if not pad:
-                out.append(f'<text x="{ax}" y="{y}" fill="{PURPLE}" font-weight="bold">'
+                out.append(f'<text x="{ax}" y="{y}" fill="{ACCENT}" font-weight="bold">'
                            f'{chr(byte).replace("&", "&amp;").replace("<", "&lt;")}'
                            f'{anim((0, 0), (decode, 1), (end, 0))}</text>')
             t += STEP

@@ -12,11 +12,7 @@
 **Epitech Toulouse**
 Cybersecurity • Digital Forensics • Reverse Engineering
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Security%20%26%20Systems-7c3aed?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Incheon%2C%20South Korea-7c3aed?style=flat-square" alt="Location">
-  <img src="https://img.shields.io/badge/🇫🇷-0055A4?style=flat-square" alt="France">
-</p>
+<sub>Based in Incheon, South Korea · French national</sub>
 
 <img src="assets/hexdump.svg" width="390" alt="DFIR / Reverse / Systems / Rust, C">
 

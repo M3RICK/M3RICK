@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 96" width="390" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" role="img" aria-label="DFIR / REVERSE / SYSTEMS / RUST/C">
+<text x="0" y="20" fill="#8b949e">00000000</text>
+<text x="286" y="20" fill="#8b949e">|</text><text x="368" y="20" fill="#8b949e">|</text>
+<text x="82" y="20" fill="#7C3AED">44<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0250;0.9500" values="0;1;0"/></text>
+<text x="296" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0250;0.1175;0.9500" values="0;1;0;0"/></text>
+<text x="296" y="20" fill="#7C3AED" font-weight="bold">D<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1175;0.9500" values="0;1;0"/></text>
+<text x="107" y="20" fill="#7C3AED">46<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0350;0.9500" values="0;1;0"/></text>
+<text x="305" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0350;0.1175;0.9500" values="0;1;0;0"/></text>
+<text x="305" y="20" fill="#7C3AED" font-weight="bold">F<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1175;0.9500" values="0;1;0"/></text>
+<text x="132" y="20" fill="#7C3AED">49<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0450;0.9500" values="0;1;0"/></text>
+<text x="314" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0450;0.1175;0.9500" values="0;1;0;0"/></text>
+<text x="314" y="20" fill="#7C3AED" font-weight="bold">I<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1175;0.9500" values="0;1;0"/></text>
+<text x="157" y="20" fill="#7C3AED">52<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0550;0.9500" values="0;1;0"/></text>
+<text x="323" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0550;0.1175;0.9500" values="0;1;0;0"/></text>
+<text x="323" y="20" fill="#7C3AED" font-weight="bold">R<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1175;0.9500" values="0;1;0"/></text>
+<text x="182" y="20" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0650;0.9500" values="0;0.4;0"/></text>
+<text x="332" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0650;0.1175;0.9500" values="0;1;1;0"/></text>
+<text x="207" y="20" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0750;0.9500" values="0;0.4;0"/></text>
+<text x="341" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0750;0.1175;0.9500" values="0;1;1;0"/></text>
+<text x="232" y="20" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0850;0.9500" values="0;0.4;0"/></text>
+<text x="350" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0850;0.1175;0.9500" values="0;1;1;0"/></text>
+<text x="257" y="20" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0950;0.9500" values="0;0.4;0"/></text>
+<text x="359" y="20" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0950;0.1175;0.9500" values="0;1;1;0"/></text>
+<text x="0" y="42" fill="#8b949e">00000008</text>
+<text x="286" y="42" fill="#8b949e">|</text><text x="368" y="42" fill="#8b949e">|</text>
+<text x="82" y="42" fill="#7C3AED">52<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1383;0.9500" values="0;1;0"/></text>
+<text x="296" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1383;0.2308;0.9500" values="0;1;0;0"/></text>
+<text x="296" y="42" fill="#7C3AED" font-weight="bold">R<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2308;0.9500" values="0;1;0"/></text>
+<text x="107" y="42" fill="#7C3AED">45<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1483;0.9500" values="0;1;0"/></text>
+<text x="305" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1483;0.2308;0.9500" values="0;1;0;0"/></text>
+<text x="305" y="42" fill="#7C3AED" font-weight="bold">E<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2308;0.9500" values="0;1;0"/></text>
+<text x="132" y="42" fill="#7C3AED">56<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1583;0.9500" values="0;1;0"/></text>
+<text x="314" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1583;0.2308;0.9500" values="0;1;0;0"/></text>
+<text x="314" y="42" fill="#7C3AED" font-weight="bold">V<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2308;0.9500" values="0;1;0"/></text>
+<text x="157" y="42" fill="#7C3AED">45<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1683;0.9500" values="0;1;0"/></text>
+<text x="323" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1683;0.2308;0.9500" values="0;1;0;0"/></text>
+<text x="323" y="42" fill="#7C3AED" font-weight="bold">E<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2308;0.9500" values="0;1;0"/></text>
+<text x="182" y="42" fill="#7C3AED">52<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1783;0.9500" values="0;1;0"/></text>
+<text x="332" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1783;0.2308;0.9500" values="0;1;0;0"/></text>
+<text x="332" y="42" fill="#7C3AED" font-weight="bold">R<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2308;0.9500" values="0;1;0"/></text>
+<text x="207" y="42" fill="#7C3AED">53<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1883;0.9500" values="0;1;0"/></text>
+<text x="341" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1883;0.2308;0.9500" values="0;1;0;0"/></text>
+<text x="341" y="42" fill="#7C3AED" font-weight="bold">S<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2308;0.9500" values="0;1;0"/></text>
+<text x="232" y="42" fill="#7C3AED">45<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1983;0.9500" values="0;1;0"/></text>
+<text x="350" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1983;0.2308;0.9500" values="0;1;0;0"/></text>
+<text x="350" y="42" fill="#7C3AED" font-weight="bold">E<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2308;0.9500" values="0;1;0"/></text>
+<text x="257" y="42" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2083;0.9500" values="0;0.4;0"/></text>
+<text x="359" y="42" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2083;0.2308;0.9500" values="0;1;1;0"/></text>
+<text x="0" y="64" fill="#8b949e">00000010</text>
+<text x="286" y="64" fill="#8b949e">|</text><text x="368" y="64" fill="#8b949e">|</text>
+<text x="82" y="64" fill="#7C3AED">53<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2517;0.9500" values="0;1;0"/></text>
+<text x="296" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2517;0.3442;0.9500" values="0;1;0;0"/></text>
+<text x="296" y="64" fill="#7C3AED" font-weight="bold">S<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3442;0.9500" values="0;1;0"/></text>
+<text x="107" y="64" fill="#7C3AED">59<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2617;0.9500" values="0;1;0"/></text>
+<text x="305" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2617;0.3442;0.9500" values="0;1;0;0"/></text>
+<text x="305" y="64" fill="#7C3AED" font-weight="bold">Y<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3442;0.9500" values="0;1;0"/></text>
+<text x="132" y="64" fill="#7C3AED">53<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2717;0.9500" values="0;1;0"/></text>
+<text x="314" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2717;0.3442;0.9500" values="0;1;0;0"/></text>
+<text x="314" y="64" fill="#7C3AED" font-weight="bold">S<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3442;0.9500" values="0;1;0"/></text>
+<text x="157" y="64" fill="#7C3AED">54<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2817;0.9500" values="0;1;0"/></text>
+<text x="323" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2817;0.3442;0.9500" values="0;1;0;0"/></text>
+<text x="323" y="64" fill="#7C3AED" font-weight="bold">T<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3442;0.9500" values="0;1;0"/></text>
+<text x="182" y="64" fill="#7C3AED">45<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2917;0.9500" values="0;1;0"/></text>
+<text x="332" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2917;0.3442;0.9500" values="0;1;0;0"/></text>
+<text x="332" y="64" fill="#7C3AED" font-weight="bold">E<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3442;0.9500" values="0;1;0"/></text>
+<text x="207" y="64" fill="#7C3AED">4d<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3017;0.9500" values="0;1;0"/></text>
+<text x="341" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3017;0.3442;0.9500" values="0;1;0;0"/></text>
+<text x="341" y="64" fill="#7C3AED" font-weight="bold">M<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3442;0.9500" values="0;1;0"/></text>
+<text x="232" y="64" fill="#7C3AED">53<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3117;0.9500" values="0;1;0"/></text>
+<text x="350" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3117;0.3442;0.9500" values="0;1;0;0"/></text>
+<text x="350" y="64" fill="#7C3AED" font-weight="bold">S<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3442;0.9500" values="0;1;0"/></text>
+<text x="257" y="64" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3217;0.9500" values="0;0.4;0"/></text>
+<text x="359" y="64" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3217;0.3442;0.9500" values="0;1;1;0"/></text>
+<text x="0" y="86" fill="#8b949e">00000018</text>
+<text x="286" y="86" fill="#8b949e">|</text><text x="368" y="86" fill="#8b949e">|</text>
+<text x="82" y="86" fill="#7C3AED">52<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3650;0.9500" values="0;1;0"/></text>
+<text x="296" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3650;0.4575;0.9500" values="0;1;0;0"/></text>
+<text x="296" y="86" fill="#7C3AED" font-weight="bold">R<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4575;0.9500" values="0;1;0"/></text>
+<text x="107" y="86" fill="#7C3AED">55<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3750;0.9500" values="0;1;0"/></text>
+<text x="305" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3750;0.4575;0.9500" values="0;1;0;0"/></text>
+<text x="305" y="86" fill="#7C3AED" font-weight="bold">U<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4575;0.9500" values="0;1;0"/></text>
+<text x="132" y="86" fill="#7C3AED">53<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3850;0.9500" values="0;1;0"/></text>
+<text x="314" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3850;0.4575;0.9500" values="0;1;0;0"/></text>
+<text x="314" y="86" fill="#7C3AED" font-weight="bold">S<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4575;0.9500" values="0;1;0"/></text>
+<text x="157" y="86" fill="#7C3AED">54<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3950;0.9500" values="0;1;0"/></text>
+<text x="323" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3950;0.4575;0.9500" values="0;1;0;0"/></text>
+<text x="323" y="86" fill="#7C3AED" font-weight="bold">T<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4575;0.9500" values="0;1;0"/></text>
+<text x="182" y="86" fill="#7C3AED">2f<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4050;0.9500" values="0;1;0"/></text>
+<text x="332" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4050;0.4575;0.9500" values="0;1;0;0"/></text>
+<text x="332" y="86" fill="#7C3AED" font-weight="bold">/<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4575;0.9500" values="0;1;0"/></text>
+<text x="207" y="86" fill="#7C3AED">43<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4150;0.9500" values="0;1;0"/></text>
+<text x="341" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4150;0.4575;0.9500" values="0;1;0;0"/></text>
+<text x="341" y="86" fill="#7C3AED" font-weight="bold">C<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4575;0.9500" values="0;1;0"/></text>
+<text x="232" y="86" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4250;0.9500" values="0;0.4;0"/></text>
+<text x="350" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4250;0.4575;0.9500" values="0;1;1;0"/></text>
+<text x="257" y="86" fill="#8b949e">00<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4350;0.9500" values="0;0.4;0"/></text>
+<text x="359" y="86" fill="#8b949e" opacity="0">.<animate attributeName="opacity" dur="12.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4350;0.4575;0.9500" values="0;1;1;0"/></text>
+</svg>

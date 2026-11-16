@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 4" width="880" height="4" role="img" aria-label="tricolore">
+  <defs>
+    <linearGradient id="flag" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0055A4"/>
+      <stop offset=".5" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#EF4135"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#fff" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    /* The glow is 120px wide and starts off-screen at x=-120; the bar is 880px wide. */
+    .sweep { animation: sweep 6s ease-in-out infinite; }
+    /* crosses in the first 35% of the loop, then waits off-screen */
+    @keyframes sweep {
+      0% { transform: translateX(0); }
+      35%, 100% { transform: translateX(1000px); }
+    }
+  </style>
+  <rect width="880" height="4" fill="url(#flag)"/>
+  <rect class="sweep" x="-120" width="120" height="4" fill="url(#glow)"/>
+</svg>

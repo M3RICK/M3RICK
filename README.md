@@ -18,15 +18,13 @@ Cybersecurity • Digital Forensics • Reverse Engineering
   <img src="https://img.shields.io/badge/🇫🇷-0055A4?style=flat-square" alt="France">
 </p>
 
-<a href="https://github.com/M3RICK">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=7C3AED&vCenter=true&width=420&lines=Digital+Forensics+%28DFIR%29;Reverse+Engineering;Low-level+%26+Systems+%E2%80%94+Rust%2C+C%2C+C%2B%2B;Blue+Team" alt="Typing SVG">
-</a>
+<img src="assets/hexdump.svg" width="390" alt="DFIR / Reverse / Systems / Rust, C">
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0055A4,50:ffffff,100:EF4135&height=4&width=880" alt="tricolore" />
+<img src="assets/tricolore.svg" width="880" alt="tricolore" />
 
 ---
 

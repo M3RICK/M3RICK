@@ -9,7 +9,7 @@
 
 # M3RICK
 
-<img src="assets/hexdump.svg?v=4" width="420" alt="Built: evtx_timeline, EVTX forensics in Rust. Now: fuzzing a C filesystem parser. Learning: DFIR investigations, HTB Sherlocks. Open to: part-time security role, Sept 2027.">
+<img src="assets/hexdump.svg?v=5" width="420" alt="Built: evtx_timeline, EVTX forensics in Rust. Now: fuzzing a C filesystem parser. Learning: DFIR investigations, HTB Sherlocks. Open to: part-time security role, Sept 2027.">
 
 </td>
 </tr>

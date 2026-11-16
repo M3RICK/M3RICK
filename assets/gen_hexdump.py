@@ -10,9 +10,8 @@ STATUS = [  # (label, value), keep label + value under ~50 chars
 ]
 ROWS = ["DFIR", "FUZZING", "SYSTEMS", "RUST/C"]  # 8 chars max per row
 WIDTH = 8
-DUR = 14.0    # full loop, seconds
+DUR = 8.0     # time base, seconds: plays once then stays on the final frame
 STEP = 0.12   # delay between two bytes
-END = 0.95    # fraction of the loop where everything resets
 LINE = 22     # line height
 
 # mid-tones: an SVG inside <img> cannot follow GitHub's theme, so these must read on white and dark
@@ -23,7 +22,7 @@ def anim(*pairs):
     """Discrete opacity animation from (seconds, opacity) pairs."""
     times = ";".join(f"{t / DUR:.4f}" for t, _ in pairs)
     values = ";".join(str(v) for _, v in pairs)
-    return (f'<animate attributeName="opacity" dur="{DUR}s" repeatCount="indefinite" '
+    return (f'<animate attributeName="opacity" dur="{DUR}s" repeatCount="1" fill="freeze" '
             f'calcMode="discrete" keyTimes="{times}" values="{values}"/>')
 
 
@@ -33,7 +32,6 @@ def esc(s):
 
 def main():
     assert all(len(r) <= WIDTH for r in ROWS), "row longer than WIDTH"
-    end = DUR * END
     top = (len(STATUS) + 1) * LINE + 14  # hexdump starts below the status block
     label = " / ".join(f"{k}: {v}" for k, v in STATUS)
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 {top + len(ROWS) * LINE + 8}" '
@@ -43,11 +41,11 @@ def main():
     t = 0.3
     out.append(f'<text y="20"><tspan fill="{GRAY}">$</tspan>'
                f'<tspan dx="8" fill="{ACCENT}" font-weight="bold">{esc(COMMAND)}</tspan>'
-               f'{anim((0, 0), (t, 1), (end, 0))}</text>')
+               f'{anim((0, 0), (t, 1))}</text>')
     for i, (key, value) in enumerate(STATUS):
         t += 0.4
         y = 20 + (i + 1) * LINE
-        out.append(f'<g>{anim((0, 0), (t, 1), (end, 0))}'
+        out.append(f'<g>{anim((0, 0), (t, 1))}'
                    f'<text x="0" y="{y}" fill="{ACCENT}">{esc(key)}</text>'
                    f'<text x="82" y="{y}" fill="{TEXT}">{esc(value)}</text></g>')
     t += 0.6
@@ -62,16 +60,16 @@ def main():
             pad = byte == 0
             hx, ax = 82 + i * 25, 296 + i * 9
             out.append(f'<text x="{hx}" y="{y}" fill="{GRAY if pad else ACCENT}">{byte:02x}'
-                       f'{anim((0, 0), (t, 0.4 if pad else 1), (end, 0))}</text>')
+                       f'{anim((0, 0), (t, 0.4 if pad else 1))}</text>')
             # dot placeholder while the byte is "raw", then the decoded character
             out.append(f'<text x="{ax}" y="{y}" fill="{GRAY}" opacity="0">.'
-                       f'{anim((0, 0), (t, 1), (decode, 1 if pad else 0), (end, 0))}</text>')
+                       f'{anim((0, 0), (t, 1), (decode, 1 if pad else 0))}</text>')
             if not pad:
                 out.append(f'<text x="{ax}" y="{y}" fill="{ACCENT}" font-weight="bold">'
-                           f'{esc(chr(byte))}{anim((0, 0), (decode, 1), (end, 0))}</text>')
+                           f'{esc(chr(byte))}{anim((0, 0), (decode, 1))}</text>')
             t += STEP
         t = decode + 0.25
-    assert t < end, "animation longer than the loop: raise DUR or lower STEP"
+    assert t < DUR, "animation longer than DUR: raise DUR or lower STEP"
     out.append("</svg>")
     print("\n".join(out))
 

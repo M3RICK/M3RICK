@@ -30,6 +30,8 @@ I came to it through game integrity and anti-cheat, which is still a side intere
 Focus:             Digital Forensics (DFIR) · Fuzzing · Low-level / Systems
 Currently Learning: Rust · DFIR investigations (HTB Sherlocks)
 Next:              Reverse Engineering (Ghidra)
+Open to:           Part-time security role, from Sept 2027
+Nationality:       French
 Exchange:          Inha University, Incheon, South Korea (2026-2027)
 Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 ```
@@ -216,8 +218,12 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 | | |
 |:--|:--|
 | **Languages** | C · C++ · Rust · Python · Haskell · x86 Assembly |
-| **Security & Forensics** | Wireshark · Burp Suite · Exegol · Linux · Docker · Git |
-| **Learning** | IDA Pro · Ghidra · Windows Internals |
+| **Forensics & Detection** | Windows Event Logs (EVTX) · Linux auth logs · Sigma · Suricata · MITRE ATT&CK |
+| **Fuzzing & Debugging** | libFuzzer · AddressSanitizer · UBSan · Clang |
+| **Network & Web** | Wireshark · Nmap · Burp Suite · Hydra · Chisel |
+| **Embedded** | Renesas RL78 · SPI · I2C · UART |
+| **Environment** | Linux · Exegol · Docker · Git · Typst |
+| **Learning** | Ghidra |
 
 ---
 
@@ -226,6 +232,9 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 <p align="center">
   <a href="mailto:aymeric.lamanda@epitech.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/aymeric-l-667657311/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://github.com/M3RICK">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">

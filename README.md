@@ -44,7 +44,7 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 <tr>
 <td>
 
-### Neurofounders — Security & Technical Audit (Internship)
+### Neurofounders - Security & Technical Audit (Internship)
 **Apr – Jul 2026 · 4 months**
 
 - Conducted technical audits of a subscription media platform — product/UX, access control, privacy, and web performance

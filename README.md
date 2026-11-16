@@ -47,7 +47,7 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 ### Neurofounders - Security & Technical Audit (Internship)
 **Apr – Jul 2026 · 4 months**
 
-- Conducted technical audits of a subscription media platform — product/UX, access control, privacy, and web performance
+- Conducted technical audits of a subscription media platform - product/UX, access control, privacy, and web performance
 - Delivered 8 findings reports to the founder, each documenting the issue and a clear, actionable recommendation
 - Translated technical risks into plain language for a non-technical decision-maker
 
@@ -132,7 +132,7 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 ## Featured Projects
 
 ### evtx_timeline
-**Windows Event Log forensic tool — Rust**
+**Windows Event Log forensic tool - Rust**
 
 DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted timeline and flags suspicious activity: per-EventID rules (log cleared, service install, privilege-group changes...) and a stateful brute-force detection. Unit tested.
 
@@ -146,9 +146,9 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
   </a>
 </p>
 
-<img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.png" width="620" alt="evtx_timeline sample output — account creation escalating to local Administrators">
+<img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.png" width="620" alt="evtx_timeline sample output - account creation escalating to local Administrators">
 
-<sub><i>Real output on a sample Security.evtx — a sequence of account-creation events escalating to the local Administrators group, flagged by severity.</i></sub>
+<sub><i>Real output on a sample Security.evtx - a sequence of account-creation events escalating to the local Administrators group, flagged by severity.</i></sub>
 
 **Other projects**
 

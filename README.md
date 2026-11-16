@@ -196,7 +196,7 @@ Client-server game in C++/SFML with a custom binary TCP protocol (typed message 
 
 League of Legends analysis platform with Riot API integration and AI-driven feedback.
 
-🏆 *Roast Master 3000 Prize — AWS x Riot Games Hackathon 2025*
+🏆 *[Roast Master 3000 Prize](https://devpost.com/software/jinx-s-workshop) — AWS x Riot Games Hackathon 2025*
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">

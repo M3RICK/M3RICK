@@ -43,7 +43,7 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 **exfatprogs** (Linux exFAT filesystem utilities): found an undefined-behaviour shift on crafted boot sectors by fuzzing the parser with libFuzzer and UBSan. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
 
 <a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95">
-  <img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=flat-square&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5">
+  <img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=for-the-badge&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5">
 </a>
 
 ---
@@ -152,7 +152,7 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
   <img src="https://img.shields.io/badge/Forensics-30363D?style=flat-square" alt="Forensics">
   &nbsp;
   <a href="https://github.com/M3RICK/evtx_timeline">
-    <img src="https://img.shields.io/badge/View_Repository-E0267A?style=flat-square&logo=github&logoColor=white" alt="Repository">
+    <img src="https://img.shields.io/badge/View_Repository-E0267A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
 </p>
 
@@ -177,7 +177,7 @@ Compiler in Haskell: C-like syntax, type inference, bytecode compiler, custom VM
 </p>
 
 <a href="https://github.com/M3RICK/GLaDOS">
-  <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  <img src="https://img.shields.io/badge/View_Repository-57606A?style=flat-square&logo=github&logoColor=white" alt="Repository">
 </a>
 
 </td>
@@ -195,7 +195,7 @@ Client-server game in C++/SFML with a custom binary TCP protocol (typed message 
 </p>
 
 <a href="https://github.com/M3RICK/Samuride">
-  <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  <img src="https://img.shields.io/badge/View_Repository-57606A?style=flat-square&logo=github&logoColor=white" alt="Repository">
 </a>
 
 </td>
@@ -214,7 +214,7 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 </p>
 
 <a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine">
-  <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  <img src="https://img.shields.io/badge/View_Repository-57606A?style=flat-square&logo=github&logoColor=white" alt="Repository">
 </a>
 
 </td>

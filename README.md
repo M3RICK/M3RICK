@@ -144,7 +144,7 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
 
 <p>
   <a href="https://devpost.com/software/jinx-s-workshop">
-    <img src="https://img.shields.io/badge/Prize_winner-AWS_x_Riot_Games_Hackathon_2025-E0267A?style=for-the-badge&logo=riotgames&logoColor=white" alt="Prize winner, AWS x Riot Games Hackathon 2025">
+    <img src="https://img.shields.io/badge/Prize_winner-AWS_x_Riot_Games_Hackathon_2025-E3B341?style=for-the-badge&logo=riotgames&logoColor=black" alt="Prize winner, AWS x Riot Games Hackathon 2025">
   </a>
   <a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine">
     <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">

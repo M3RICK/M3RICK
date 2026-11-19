@@ -139,11 +139,17 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
 
 <sub><i>Real output on a sample Security.evtx - a sequence of account-creation events escalating to the local Administrators group, flagged by severity.</i></sub>
 
-**Other projects**
+### Rift Rewind
+**League of Legends match analysis with the Riot API and AI feedback - Python, AWS**
 
-- [GLaDOS](https://github.com/M3RICK/GLaDOS): compiler in Haskell, with type inference, a bytecode VM and a linker for relocatable object files
-- [Samuride](https://github.com/M3RICK/Samuride): C++/SFML multiplayer game with a custom binary TCP protocol
-- [Rift Rewind](https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine): AWS x Riot Games Hackathon 2025, [Roast Master 3000 Prize](https://devpost.com/software/jinx-s-workshop)
+<p>
+  <a href="https://devpost.com/software/jinx-s-workshop">
+    <img src="https://img.shields.io/badge/Prize_winner-AWS_x_Riot_Games_Hackathon_2025-E0267A?style=for-the-badge&logo=riotgames&logoColor=white" alt="Prize winner, AWS x Riot Games Hackathon 2025">
+  </a>
+  <a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine">
+    <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  </a>
+</p>
 
 ---
 

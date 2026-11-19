@@ -19,22 +19,6 @@
 
 ---
 
-## About
-
-Fourth-year student in Epitech's five-year Master's program (Toulouse), focused on cybersecurity: **digital forensics (DFIR), fuzzing and low-level / systems programming**. I build security tooling from scratch, fuzz C parsers to find real bugs and get them fixed upstream, and practice on CTF and blue-team platforms.
-
-```yaml
-Focus:             Digital Forensics (DFIR) · Fuzzing · Low-level / Systems
-Currently Learning: Rust · DFIR investigations (HTB Sherlocks)
-Next:              Reverse Engineering (Ghidra)
-Open to:           Part-time security role, from Sept 2027
-Nationality:       French
-Exchange:          Inha University, South Korea (2026-2027): Computer Networks, Operating Systems, IoT
-Languages:         French (Native) · English (C1 IELTS) · German (Fluent) · Korean (Beginner)
-```
-
----
-
 ## Open Source Contributions
 
 **exfatprogs** (Linux exFAT filesystem utilities): found an undefined-behaviour shift on crafted boot sectors by fuzzing the parser with libFuzzer and UBSan. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
@@ -44,6 +28,18 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent) · K
 </a>
 
 How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzzer) · [write-up (PDF)](https://github.com/M3RICK/WriteUps/blob/main/VulnResearch/exfatprogs/exfatprogs-WriteUp.pdf)
+
+---
+
+## About
+
+Fourth-year student in Epitech's five-year Master's program (Toulouse), focused on cybersecurity: **digital forensics (DFIR), fuzzing and low-level / systems programming**. I build security tooling from scratch, fuzz C parsers to find real bugs and get them fixed upstream, and practice on CTF and blue-team platforms. Open to a part-time security role from September 2027.
+
+```yaml
+Nationality: French
+Exchange:    Inha University, South Korea (2026-2027): Computer Networks, Operating Systems, IoT
+Languages:   French (Native) · English (C1 IELTS) · German (Fluent) · Korean (Beginner)
+```
 
 ---
 

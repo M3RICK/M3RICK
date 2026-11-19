@@ -21,10 +21,7 @@
 
 ## About
 
-Student at Epitech Toulouse, focused on cybersecurity: **digital forensics (DFIR),
-fuzzing and low-level / systems programming**. I build security tooling
-from scratch and practice on CTF and blue-team platforms. Reverse engineering is what I am picking up next:
-I came to it through game integrity and anti-cheat, which is still a side interest.
+Fourth-year student in Epitech's five-year Master's program (Toulouse), focused on cybersecurity: **digital forensics (DFIR), fuzzing and low-level / systems programming**. I build security tooling from scratch, fuzz C parsers to find real bugs and get them fixed upstream, and practice on CTF and blue-team platforms.
 
 ```yaml
 Focus:             Digital Forensics (DFIR) · Fuzzing · Low-level / Systems
@@ -32,8 +29,8 @@ Currently Learning: Rust · DFIR investigations (HTB Sherlocks)
 Next:              Reverse Engineering (Ghidra)
 Open to:           Part-time security role, from Sept 2027
 Nationality:       French
-Exchange:          Inha University, Incheon, South Korea (2026-2027)
-Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
+Exchange:          Inha University, South Korea (2026-2027): Computer Networks, Operating Systems, IoT
+Languages:         French (Native) · English (C1 IELTS) · German (Fluent) · Korean (Beginner)
 ```
 
 ---

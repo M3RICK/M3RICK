@@ -93,7 +93,7 @@ DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata dete
 
 **Blue Team Labs Online**
 
-Defensive security challenges and digital forensics investigations.
+Defensive security challenges and digital forensics investigations (14 completed).
 
 <a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b">
   <img src="https://img.shields.io/badge/View_Profile-30363D?style=flat-square&logo=security&logoColor=white" alt="BTL Profile">
@@ -185,11 +185,5 @@ Languages:   French (Native) · English (C1 IELTS) · German (Fluent) · Korean 
   </a>
   <a href="https://www.linkedin.com/in/aymeric-l-667657311/">
     <img src="https://img.shields.io/badge/LinkedIn-57606A?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/M3RICK">
-    <img src="https://img.shields.io/badge/GitHub-57606A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b">
-    <img src="https://img.shields.io/badge/Blue_Team_Labs-30363D?style=for-the-badge&logo=security&logoColor=white" alt="Blue Team Labs">
   </a>
 </p>

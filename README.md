@@ -54,7 +54,7 @@ How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzze
 <td>
 
 ### Neurofounders - Security & Technical Audit (Internship)
-**Apr – Jul 2026 · 4 months**
+**Apr - Jul 2026 · 4 months**
 
 - Conducted technical audits of a subscription media platform - product/UX, access control, privacy, and web performance
 - Delivered 8 findings reports to the founder, each documenting the issue and a clear, actionable recommendation
@@ -72,7 +72,7 @@ How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzze
 <td>
 
 ### Continental Automotive (now Aumovio), Embedded Software Intern
-**Aug – Dec 2024 · Toulouse · R&D Passive Safety & Sensoring**
+**Aug - Dec 2024 · Toulouse · R&D Passive Safety & Sensoring**
 
 - Wrote the C proof of concept for a new sensor on a Renesas RL78/F13, from board bring-up to validated features
 - Generated timed pulse patterns with hardware timers and prescalers; drove peripherals over SPI, I2C and UART

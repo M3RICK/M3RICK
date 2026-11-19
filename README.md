@@ -31,18 +31,6 @@ How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzze
 
 ---
 
-## About
-
-Fourth-year student in Epitech's five-year Master's program (Toulouse), focused on cybersecurity: **digital forensics (DFIR), fuzzing and low-level / systems programming**. I build security tooling from scratch, fuzz C parsers to find real bugs and get them fixed upstream, and practice on CTF and blue-team platforms. Open to a part-time security role from September 2027.
-
-```yaml
-Nationality: French
-Exchange:    Inha University, South Korea (2026-2027): Computer Networks, Operating Systems, IoT
-Languages:   French (Native) · English (C1 IELTS) · German (Fluent) · Korean (Beginner)
-```
-
----
-
 ## Professional Experience
 
 <table>
@@ -229,6 +217,16 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 | **Embedded** | Renesas RL78 · SPI · I2C · UART |
 | **Environment** | Linux · Exegol · Docker · Git · jq · Typst |
 | **Learning** | Ghidra |
+
+---
+
+## Background
+
+```yaml
+Nationality: French
+Exchange:    Inha University, South Korea (2026-2027): Computer Networks, Operating Systems, IoT
+Languages:   French (Native) · English (C1 IELTS) · German (Fluent) · Korean (Beginner)
+```
 
 ---
 

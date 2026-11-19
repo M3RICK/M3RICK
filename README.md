@@ -38,6 +38,16 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 
 ---
 
+## Open Source Contributions
+
+**exfatprogs** (Linux exFAT filesystem utilities): found an undefined-behaviour shift on crafted boot sectors by fuzzing the parser with libFuzzer and UBSan. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
+
+<a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95">
+  <img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=flat-square&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5">
+</a>
+
+---
+
 ## Professional Experience
 
 <table>
@@ -125,20 +135,6 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 
 </td>
 </tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-**Open Source Contributions**
-
-**exfatprogs** (Linux exFAT filesystem utilities): found an undefined-behaviour shift on crafted boot sectors by fuzzing the parser with libFuzzer and UBSan. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
-
-<a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95">
-  <img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=flat-square&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5">
-</a>
-
-</td>
-</tr>
 </table>
 
 ---
@@ -181,7 +177,7 @@ Compiler in Haskell: C-like syntax, type inference, bytecode compiler, custom VM
 </p>
 
 <a href="https://github.com/M3RICK/GLaDOS">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
 </a>
 
 </td>
@@ -199,7 +195,7 @@ Client-server game in C++/SFML with a custom binary TCP protocol (typed message 
 </p>
 
 <a href="https://github.com/M3RICK/Samuride">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
 </a>
 
 </td>
@@ -218,7 +214,7 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 </p>
 
 <a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine">
-  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
+  <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
 </a>
 
 </td>
@@ -245,13 +241,13 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 
 <p align="center">
   <a href="mailto:aymeric.lamanda@epitech.eu">
-    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-57606A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/aymeric-l-667657311/">
-    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-57606A?style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://github.com/M3RICK">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-57606A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b">
     <img src="https://img.shields.io/badge/Blue_Team_Labs-30363D?style=for-the-badge&logo=security&logoColor=white" alt="Blue Team Labs">

@@ -130,10 +130,6 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted timeline and flags suspicious activity: per-EventID rules (log cleared, service install, privilege-group changes...) and a stateful brute-force detection. Unit tested.
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-30363D?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/DFIR-30363D?style=flat-square" alt="DFIR">
-  <img src="https://img.shields.io/badge/Forensics-30363D?style=flat-square" alt="Forensics">
-  &nbsp;
   <a href="https://github.com/M3RICK/evtx_timeline">
     <img src="https://img.shields.io/badge/View_Repository-E0267A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
   </a>
@@ -145,64 +141,9 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
 
 **Other projects**
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### GLaDOS
-**Language & Compiler**
-
-Compiler in Haskell: C-like syntax, type inference, bytecode compiler, custom VM, and a linker for multi-file compilation with relocatable object files.
-
-<p>
-  <img src="https://img.shields.io/badge/Haskell-30363D?style=flat-square&logo=haskell&logoColor=white" alt="Haskell">
-  <img src="https://img.shields.io/badge/Compiler-30363D?style=flat-square" alt="Compiler">
-</p>
-
-<a href="https://github.com/M3RICK/GLaDOS">
-  <img src="https://img.shields.io/badge/View_Repository-57606A?style=flat-square&logo=github&logoColor=white" alt="Repository">
-</a>
-
-</td>
-<td width="33%" valign="top">
-
-### Samuride
-**Multiplayer game & custom binary protocol (C++)**
-
-Client-server game in C++/SFML with a custom binary TCP protocol (typed message headers, state sync). My entry point into networking and anti-cheat / game integrity.
-
-<p>
-  <img src="https://img.shields.io/badge/C++-30363D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Binary_Protocol-30363D?style=flat-square" alt="Binary Protocol">
-  <img src="https://img.shields.io/badge/Networking-30363D?style=flat-square" alt="Networking">
-</p>
-
-<a href="https://github.com/M3RICK/Samuride">
-  <img src="https://img.shields.io/badge/View_Repository-57606A?style=flat-square&logo=github&logoColor=white" alt="Repository">
-</a>
-
-</td>
-<td width="33%" valign="top">
-
-### Rift Rewind
-**AWS x Riot Games Hackathon, prize winner**
-
-League of Legends analysis platform with Riot API integration and AI-driven feedback.
-
-🏆 *[Roast Master 3000 Prize](https://devpost.com/software/jinx-s-workshop) - AWS x Riot Games Hackathon 2025*
-
-<p>
-  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
-</p>
-
-<a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine">
-  <img src="https://img.shields.io/badge/View_Repository-57606A?style=flat-square&logo=github&logoColor=white" alt="Repository">
-</a>
-
-</td>
-</tr>
-</table>
+- [GLaDOS](https://github.com/M3RICK/GLaDOS): compiler in Haskell, with type inference, a bytecode VM and a linker for relocatable object files
+- [Samuride](https://github.com/M3RICK/Samuride): C++/SFML multiplayer game with a custom binary TCP protocol
+- [Rift Rewind](https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine): AWS x Riot Games Hackathon 2025, [Roast Master 3000 Prize](https://devpost.com/software/jinx-s-workshop)
 
 ---
 

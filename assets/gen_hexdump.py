@@ -10,6 +10,8 @@ STATUS = [  # (label, value), keep label + value under ~50 chars
 ]
 ROWS = ["DFIR", "FUZZING", "SYSTEMS", "RUST/C"]  # 8 chars max per row
 WIDTH = 8
+# padding bytes for the hex column
+FILL = bytes.fromhex("576f772c20796f75207265616c6c792061726520637572696f75732c20687568").ljust(len(ROWS) * WIDTH)
 DUR = 8.0     # time base, seconds: plays once then stays on the final frame
 STEP = 0.12   # delay between two bytes
 LINE = 22     # line height
@@ -56,11 +58,13 @@ def main():
         out.append(f'<text x="0" y="{y}" fill="{GRAY}">{r * WIDTH:08x}</text>')
         out.append(f'<text x="286" y="{y}" fill="{GRAY}">|</text>'
                    f'<text x="{296 + WIDTH * 9}" y="{y}" fill="{GRAY}">|</text>')
-        for i, byte in enumerate(word.encode().ljust(WIDTH, b"\0")):
-            pad = byte == 0
+        raw = word.encode()
+        for i in range(WIDTH):
+            pad = i >= len(raw)
+            byte = raw[i] if not pad else 0
             hx, ax = 82 + i * 25, 296 + i * 9
-            out.append(f'<text x="{hx}" y="{y}" fill="{GRAY if pad else ACCENT}">{byte:02x}'
-                       f'{anim((0, 0), (t, 0.4 if pad else 1))}</text>')
+            out.append(f'<text x="{hx}" y="{y}" fill="{ACCENT}">{FILL[r * WIDTH + i]:02x}'
+                       f'{anim((0, 0), (t, 1))}</text>')
             # dot placeholder while the byte is "raw", then the decoded character
             out.append(f'<text x="{ax}" y="{y}" fill="{GRAY}" opacity="0">.'
                        f'{anim((0, 0), (t, 1), (decode, 1 if pad else 0))}</text>')

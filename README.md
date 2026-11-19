@@ -52,9 +52,9 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 - Translated technical risks into plain language for a non-technical decision-maker
 
 <p>
-  <img src="https://img.shields.io/badge/Security%20Audit-7c3aed?style=flat-square" alt="Security Audit">
-  <img src="https://img.shields.io/badge/Technical%20Writing-0078D4?style=flat-square" alt="Technical Writing">
-  <img src="https://img.shields.io/badge/Web%20Performance-FF6F00?style=flat-square" alt="Web Performance">
+  <img src="https://img.shields.io/badge/Security%20Audit-30363D?style=flat-square" alt="Security Audit">
+  <img src="https://img.shields.io/badge/Technical%20Writing-30363D?style=flat-square" alt="Technical Writing">
+  <img src="https://img.shields.io/badge/Web%20Performance-30363D?style=flat-square" alt="Web Performance">
 </p>
 
 </td>
@@ -70,9 +70,9 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 - Wrote toolchain setup and handover docs; the team then ran my code on the boards for their live lab tests
 
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/Embedded-FF6F00?style=flat-square&logo=arm&logoColor=white" alt="Embedded">
-  <img src="https://img.shields.io/badge/Microcontrollers-0078D4?style=flat-square" alt="MCU">
+  <img src="https://img.shields.io/badge/C-30363D?style=flat-square&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Embedded-30363D?style=flat-square&logo=arm&logoColor=white" alt="Embedded">
+  <img src="https://img.shields.io/badge/Microcontrollers-30363D?style=flat-square" alt="MCU">
 </p>
 
 </td>
@@ -92,7 +92,7 @@ Languages:         French (Native) · English (C1 IELTS) · German (Fluent)
 DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
 
 <a href="https://github.com/M3RICK/WriteUps">
-  <img src="https://img.shields.io/badge/View_Write--Ups-7c3aed?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups">
+  <img src="https://img.shields.io/badge/View_Write--Ups-30363D?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups">
 </a>
 
 </td>
@@ -103,7 +103,7 @@ DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata dete
 Defensive security challenges and digital forensics investigations.
 
 <a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b">
-  <img src="https://img.shields.io/badge/View_Profile-0078D4?style=flat-square&logo=security&logoColor=white" alt="BTL Profile">
+  <img src="https://img.shields.io/badge/View_Profile-30363D?style=flat-square&logo=security&logoColor=white" alt="BTL Profile">
 </a>
 
 </td>
@@ -133,6 +133,10 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 
 **exfatprogs** (Linux exFAT filesystem utilities): found an undefined-behaviour shift on crafted boot sectors by fuzzing the parser with libFuzzer and UBSan. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
 
+<a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95">
+  <img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=flat-square&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5">
+</a>
+
 </td>
 </tr>
 </table>
@@ -147,12 +151,12 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted timeline and flags suspicious activity: per-EventID rules (log cleared, service install, privilege-group changes...) and a stateful brute-force detection. Unit tested.
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/DFIR-7c3aed?style=flat-square" alt="DFIR">
-  <img src="https://img.shields.io/badge/Forensics-FF6F00?style=flat-square" alt="Forensics">
+  <img src="https://img.shields.io/badge/Rust-30363D?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+  <img src="https://img.shields.io/badge/DFIR-30363D?style=flat-square" alt="DFIR">
+  <img src="https://img.shields.io/badge/Forensics-30363D?style=flat-square" alt="Forensics">
   &nbsp;
   <a href="https://github.com/M3RICK/evtx_timeline">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository">
+    <img src="https://img.shields.io/badge/View_Repository-E0267A?style=flat-square&logo=github&logoColor=white" alt="Repository">
   </a>
 </p>
 
@@ -172,8 +176,8 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
 Compiler in Haskell: C-like syntax, type inference, bytecode compiler, custom VM, and a linker for multi-file compilation with relocatable object files.
 
 <p>
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white" alt="Haskell">
-  <img src="https://img.shields.io/badge/Compiler-7c3aed?style=flat-square" alt="Compiler">
+  <img src="https://img.shields.io/badge/Haskell-30363D?style=flat-square&logo=haskell&logoColor=white" alt="Haskell">
+  <img src="https://img.shields.io/badge/Compiler-30363D?style=flat-square" alt="Compiler">
 </p>
 
 <a href="https://github.com/M3RICK/GLaDOS">
@@ -189,9 +193,9 @@ Compiler in Haskell: C-like syntax, type inference, bytecode compiler, custom VM
 Client-server game in C++/SFML with a custom binary TCP protocol (typed message headers, state sync). My entry point into networking and anti-cheat / game integrity.
 
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Binary_Protocol-7c3aed?style=flat-square" alt="Binary Protocol">
-  <img src="https://img.shields.io/badge/Networking-FF6F00?style=flat-square" alt="Networking">
+  <img src="https://img.shields.io/badge/C++-30363D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Binary_Protocol-30363D?style=flat-square" alt="Binary Protocol">
+  <img src="https://img.shields.io/badge/Networking-30363D?style=flat-square" alt="Networking">
 </p>
 
 <a href="https://github.com/M3RICK/Samuride">
@@ -209,8 +213,8 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 🏆 *[Roast Master 3000 Prize](https://devpost.com/software/jinx-s-workshop) - AWS x Riot Games Hackathon 2025*
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/AWS-30363D?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
 </p>
 
 <a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine">
@@ -241,15 +245,15 @@ League of Legends analysis platform with Riot API integration and AI-driven feed
 
 <p align="center">
   <a href="mailto:aymeric.lamanda@epitech.eu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/aymeric-l-667657311/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge" alt="LinkedIn">
   </a>
   <a href="https://github.com/M3RICK">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b">
-    <img src="https://img.shields.io/badge/Blue_Team_Labs-0078D4?style=for-the-badge&logo=security&logoColor=white" alt="Blue Team Labs">
+    <img src="https://img.shields.io/badge/Blue_Team_Labs-30363D?style=for-the-badge&logo=security&logoColor=white" alt="Blue Team Labs">
   </a>
 </p>

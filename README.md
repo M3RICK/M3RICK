@@ -93,7 +93,7 @@ DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata dete
 
 **Blue Team Labs Online**
 
-Defensive security challenges and digital forensics investigations (14 completed).
+Defensive security and digital forensics challenges.
 
 <a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b">
   <img src="https://img.shields.io/badge/View_Profile-30363D?style=flat-square&logo=security&logoColor=white" alt="BTL Profile">

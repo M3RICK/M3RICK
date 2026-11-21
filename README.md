@@ -159,6 +159,7 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
 |:--|:--|
 | **Languages** | C · C++ · Rust · Python · Haskell · x86 Assembly |
 | **Forensics & Detection** | Windows Event Logs (EVTX) · Sysmon · Linux auth logs · Sigma · Suricata · MITRE ATT&CK |
+| **Disk & Registry Forensics** | The Sleuth Kit · libewf (E01) · regipy · NTFS MFT · Prefetch |
 | **Fuzzing & Debugging** | libFuzzer · AddressSanitizer · UBSan · Clang |
 | **Network & Web** | Wireshark · Nmap · Burp Suite · Hydra · Chisel |
 | **Embedded** | Renesas RL78 · SPI · I2C · UART |

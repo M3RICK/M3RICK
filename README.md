@@ -23,9 +23,7 @@
 
 **exfatprogs** (Linux exFAT filesystem utilities): found an undefined-behaviour shift on crafted boot sectors by fuzzing the parser with libFuzzer and UBSan. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
 
-<a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95">
-  <img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=for-the-badge&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5">
-</a>
+<a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95"><img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=for-the-badge&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5"></a>
 
 How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzzer) · [write-up (PDF)](https://github.com/M3RICK/WriteUps/blob/main/VulnResearch/exfatprogs/exfatprogs-WriteUp.pdf)
 
@@ -84,9 +82,7 @@ How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzze
 
 DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
 
-<a href="https://github.com/M3RICK/WriteUps">
-  <img src="https://img.shields.io/badge/View_Write--Ups-30363D?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups">
-</a>
+<a href="https://github.com/M3RICK/WriteUps"><img src="https://img.shields.io/badge/View_Write--Ups-30363D?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups"></a>
 
 </td>
 <td width="50%" valign="top">
@@ -95,9 +91,7 @@ DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata dete
 
 Defensive security and digital forensics challenges.
 
-<a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b">
-  <img src="https://img.shields.io/badge/View_Profile-30363D?style=flat-square&logo=security&logoColor=white" alt="BTL Profile">
-</a>
+<a href="https://blueteamlabs.online/public/user/0bd62aebf339f4cb519d5b"><img src="https://img.shields.io/badge/View_Profile-30363D?style=flat-square&logo=security&logoColor=white" alt="BTL Profile"></a>
 
 </td>
 </tr>
@@ -130,9 +124,7 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted timeline and flags suspicious activity: per-EventID rules (log cleared, service install, privilege-group changes...) and a stateful brute-force detection. Unit tested.
 
 <p>
-  <a href="https://github.com/M3RICK/evtx_timeline">
-    <img src="https://img.shields.io/badge/View_Repository-E0267A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-  </a>
+  <a href="https://github.com/M3RICK/evtx_timeline"><img src="https://img.shields.io/badge/View_Repository-E0267A?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 </p>
 
 <img src="https://github.com/M3RICK/M3RICK/raw/main/assets/evtx_timeline_demo.png" width="620" alt="evtx_timeline sample output - account creation escalating to local Administrators">
@@ -145,12 +137,8 @@ DFIR tool that parses `.evtx` logs into a normalized, chronologically sorted tim
 Prize winner at the AWS x Riot Games Hackathon 2025.
 
 <p>
-  <a href="https://devpost.com/software/jinx-s-workshop">
-    <img src="https://img.shields.io/badge/Prize_winner-AWS_x_Riot_Games_Hackathon_2025-E3B341?style=for-the-badge&logo=riotgames&logoColor=black" alt="Prize winner, AWS x Riot Games Hackathon 2025">
-  </a>
-  <a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine">
-    <img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository">
-  </a>
+  <a href="https://devpost.com/software/jinx-s-workshop"><img src="https://img.shields.io/badge/Prize_winner-AWS_x_Riot_Games_Hackathon_2025-E3B341?style=for-the-badge&logo=riotgames&logoColor=black" alt="Prize winner, AWS x Riot Games Hackathon 2025"></a>
+  <a href="https://github.com/M3RICK/Jinx-s_Magical_Rewind_Machine"><img src="https://img.shields.io/badge/View_Repository-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Repository"></a>
 </p>
 
 ---
@@ -183,10 +171,6 @@ Languages:   French (Native) · English (C1 IELTS) · German (Fluent) · Korean 
 ## Connect
 
 <p align="center">
-  <a href="mailto:aymeric.lamanda@epitech.eu">
-    <img src="https://img.shields.io/badge/Email-57606A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/aymeric-l-667657311/">
-    <img src="https://img.shields.io/badge/LinkedIn-57606A?style=for-the-badge" alt="LinkedIn">
-  </a>
+  <a href="mailto:aymeric.lamanda@epitech.eu"><img src="https://img.shields.io/badge/Email-57606A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/aymeric-l-667657311/"><img src="https://img.shields.io/badge/LinkedIn-57606A?style=for-the-badge" alt="LinkedIn"></a>
 </p>

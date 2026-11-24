@@ -27,6 +27,7 @@
 - An infinite loop in exfat2img on a cyclic FAT chain, reported upstream ([PR #409](https://github.com/exfatprogs/exfatprogs/pull/409)).
 
 <a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95"><img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=for-the-badge&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5"></a>
+<a href="https://github.com/exfatprogs/exfatprogs/pull/409"><img src="https://img.shields.io/badge/Reported_upstream-exfat2img_infinite_loop-57606A?style=for-the-badge&logo=linux&logoColor=white" alt="Reported upstream: exfat2img infinite loop"></a>
 
 How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzzer) · [write-up (PDF)](https://github.com/M3RICK/WriteUps/blob/main/VulnResearch/exfatprogs/exfatprogs-WriteUp.pdf)
 

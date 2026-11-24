@@ -21,9 +21,10 @@
 
 ## Open Source Contributions
 
-**exfatprogs** (Linux exFAT filesystem utilities): found an undefined-behaviour shift on crafted boot sectors by fuzzing the parser with libFuzzer and UBSan. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
+**exfatprogs** (Linux exFAT filesystem utilities): fuzzed the parsers with libFuzzer and UBSan and found two bugs triggered by crafted disk images.
 
-The same fuzzing campaign turned up an infinite loop in exfat2img on crafted images with a cyclic FAT chain ([reported](https://github.com/exfatprogs/exfatprogs/pull/409)).
+- An undefined-behaviour shift in boot sector parsing. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
+- An infinite loop in exfat2img on a cyclic FAT chain, reported upstream ([PR #409](https://github.com/exfatprogs/exfatprogs/pull/409)).
 
 <a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95"><img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=for-the-badge&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5"></a>
 

@@ -21,15 +21,36 @@
 
 ## Open Source Contributions
 
-**exfatprogs** (Linux exFAT filesystem utilities): fuzzed the parsers with libFuzzer and UBSan and found two bugs triggered by crafted disk images.
+**exfatprogs** · Linux exFAT filesystem utilities · fuzzed with libFuzzer and UBSan, two bugs found on crafted disk images
 
-- An undefined-behaviour shift in boot sector parsing. Fixed it in the shared library used by five of the tools; the patch was reviewed by the maintainer, merged upstream and shipped in [exfatprogs 1.4.5](https://github.com/exfatprogs/exfatprogs/releases/tag/1.4.5) ([commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95), [PR #403](https://github.com/exfatprogs/exfatprogs/pull/403)).
-- An infinite loop in exfat2img on a cyclic FAT chain, reported upstream ([PR #409](https://github.com/exfatprogs/exfatprogs/pull/409)).
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95"><img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=for-the-badge&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5"></a>
-<a href="https://github.com/exfatprogs/exfatprogs/pull/409"><img src="https://img.shields.io/badge/Reported_upstream-exfat2img_infinite_loop-57606A?style=for-the-badge&logo=linux&logoColor=white" alt="Reported upstream: exfat2img infinite loop"></a>
+**1 · Undefined-behaviour shift in boot sector parsing**
 
-How it was found: [fuzzing harnesses](https://github.com/M3RICK/exfatprogs-fuzzer) · [write-up (PDF)](https://github.com/M3RICK/WriteUps/blob/main/VulnResearch/exfatprogs/exfatprogs-WriteUp.pdf)
+A crafted boot sector triggers an out-of-range shift in the shared library used by five of the tools. I wrote the fix; the maintainer reviewed and merged it.
+
+<a href="https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95"><img src="https://img.shields.io/badge/Merged_upstream-exfatprogs_1.4.5-E0267A?style=flat-square&logo=linux&logoColor=white" alt="Merged upstream in exfatprogs 1.4.5"></a>
+
+[PR #403](https://github.com/exfatprogs/exfatprogs/pull/403) · [commit f976d4d](https://github.com/exfatprogs/exfatprogs/commit/f976d4d0b033e72518fb67f1d805fd49f2aebd95) · [write-up (PDF)](https://github.com/M3RICK/WriteUps/blob/main/VulnResearch/exfatprogs/exfatprogs-WriteUp.pdf)
+
+</td>
+<td width="50%" valign="top">
+
+**2 · Infinite loop in exfat2img**
+
+A cyclic FAT chain on a crafted image makes exfat2img walk the same directory forever. Reported upstream with a reproducer; fix in progress.
+
+<a href="https://github.com/exfatprogs/exfatprogs/pull/409"><img src="https://img.shields.io/badge/Reported_upstream-exfat2img-57606A?style=flat-square&logo=linux&logoColor=white" alt="Reported upstream: exfat2img infinite loop"></a>
+
+[PR #409](https://github.com/exfatprogs/exfatprogs/pull/409)
+
+</td>
+</tr>
+</table>
+
+Fuzzing harnesses: [M3RICK/exfatprogs-fuzzer](https://github.com/M3RICK/exfatprogs-fuzzer)
 
 ---
 

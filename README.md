@@ -81,7 +81,7 @@ Fuzzing harnesses: [M3RICK/exfatprogs-fuzzer](https://github.com/M3RICK/exfatpro
 ### Continental Automotive (now Aumovio), Embedded Software Intern
 **Aug - Dec 2024 · Toulouse · R&D Passive Safety & Sensoring**
 
-- Wrote the C proof of concept for a new sensor on a Renesas RL78/F13, from board bring-up to validated features
+- Wrote the C proof of concept for a new sensor on a Renesas RL78/F13, from board bring-up to validated features. Continental presented the product, [eRTS](https://www.continental.com/en/press/press-releases/20250603-sam-erts/), in June 2025
 - Generated timed pulse patterns with hardware timers and prescalers; drove peripherals over SPI, I2C and UART
 - Wrote toolchain setup and handover docs; the team then ran my code on the boards for their live lab tests
 

@@ -105,7 +105,7 @@ Fuzzing harnesses: [M3RICK/exfatprogs-fuzzer](https://github.com/M3RICK/exfatpro
 
 **Security Research & Write-Ups**
 
-DFIR investigations (HTB Sherlocks), a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
+DFIR investigations (a Windows disk case with malware reverse engineering, HTB Sherlocks), a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
 
 <a href="https://github.com/M3RICK/WriteUps"><img src="https://img.shields.io/badge/View_Write--Ups-30363D?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups"></a>
 
@@ -174,12 +174,12 @@ Prize winner at the AWS x Riot Games Hackathon 2025.
 |:--|:--|
 | **Languages** | C · C++ · Rust · Python · Haskell · x86 Assembly |
 | **Forensics & Detection** | Windows Event Logs (EVTX) · Sysmon · Linux auth logs · Sigma · Suricata · MITRE ATT&CK |
-| **Disk & Registry Forensics** | The Sleuth Kit · libewf (E01) · regipy · NTFS MFT · Prefetch |
+| **Disk & Registry Forensics** | The Sleuth Kit · libewf (E01) · NTFS MFT & USN journal · regipy (hive log replay) · Prefetch · Amcache · UserAssist · BAM · SRUM · ESE (libesedb) · Eric Zimmerman tools |
 | **Fuzzing & Debugging** | libFuzzer · AddressSanitizer · UBSan · Clang |
 | **Network & Web** | Wireshark · Nmap · Burp Suite · Hydra · Chisel |
 | **Embedded** | Renesas RL78 · SPI · I2C · UART |
 | **Environment** | Linux · Exegol · Docker · Git · jq · Typst |
-| **Learning** | Ghidra |
+| **Malware Analysis** | Ghidra (static) · strings · VirusTotal |
 
 ---
 

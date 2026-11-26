@@ -105,9 +105,7 @@ Fuzzing harnesses: [M3RICK/exfatprogs-fuzzer](https://github.com/M3RICK/exfatpro
 
 **Security Research & Write-Ups**
 
-DFIR investigations (a Windows disk case with malware reverse engineering, HTB Sherlocks), a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
-
-Latest: [SysInternalsCase (PDF)](https://github.com/M3RICK/WriteUps/blob/main/Ashemery/SysInternalsCase/SysInternalsCase-WriteUp.pdf), a Windows 10 disk investigation: fake download through a hijacked `hosts` file, persistent service reverse engineered in Ghidra.
+HTB Sherlocks, a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
 
 <a href="https://github.com/M3RICK/WriteUps"><img src="https://img.shields.io/badge/View_Write--Ups-30363D?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups"></a>
 
@@ -144,6 +142,15 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 ---
 
 ## Featured Projects
+
+### SysInternalsCase
+**Windows 10 disk investigation and malware reverse engineering - write-up (PDF, 9 pages)**
+
+A user downloads the SysInternals suite, nothing opens, and the machine slows down. From the E01 image alone: PowerShell had turned off Defender and pointed `www.sysinternals.com` to a local server in the `hosts` file, the fake download installed a service running as SYSTEM, and Ghidra shows that service deleting every Prefetch file each second. The USN journal still recorded 214 of those deletions.
+
+<p>
+  <a href="https://github.com/M3RICK/WriteUps/blob/main/Ashemery/SysInternalsCase/SysInternalsCase-WriteUp.pdf"><img src="https://img.shields.io/badge/Read_the_write--up-E0267A?style=for-the-badge" alt="Read the SysInternalsCase write-up (PDF)"></a>
+</p>
 
 ### evtx_timeline
 **Windows Event Log forensic tool - Rust**

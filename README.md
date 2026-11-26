@@ -150,6 +150,7 @@ A user downloads the SysInternals suite, nothing opens, and the machine slows do
 
 <p>
   <a href="https://github.com/M3RICK/WriteUps/blob/main/Ashemery/SysInternalsCase/SysInternalsCase-WriteUp.pdf"><img src="https://img.shields.io/badge/Read_the_write--up-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Read the SysInternalsCase write-up (PDF)"></a>
+  <a href="https://github.com/M3RICK/WriteUps/blob/main/Ashemery/SysInternalsCase/ticket_soc.md"><img src="https://img.shields.io/badge/Same_case_as_a_SOC_ticket-57606A?style=flat-square" alt="The same case written as a SOC ticket"></a>
 </p>
 
 ### evtx_timeline

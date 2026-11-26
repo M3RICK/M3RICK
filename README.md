@@ -107,6 +107,8 @@ Fuzzing harnesses: [M3RICK/exfatprogs-fuzzer](https://github.com/M3RICK/exfatpro
 
 DFIR investigations (a Windows disk case with malware reverse engineering, HTB Sherlocks), a CVE analysis with Sigma and Suricata detection rules, and CTF machine write-ups.
 
+Latest: [SysInternalsCase (PDF)](https://github.com/M3RICK/WriteUps/blob/main/Ashemery/SysInternalsCase/SysInternalsCase-WriteUp.pdf), a Windows 10 disk investigation: fake download through a hijacked `hosts` file, persistent service reverse engineered in Ghidra.
+
 <a href="https://github.com/M3RICK/WriteUps"><img src="https://img.shields.io/badge/View_Write--Ups-30363D?style=flat-square&logo=markdown&logoColor=white" alt="Write-ups"></a>
 
 </td>

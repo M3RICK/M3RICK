@@ -149,7 +149,7 @@ Took part in the WOCS'hACK 2025 bug bounty competition ([3 reports](https://gith
 A user downloads the SysInternals suite, nothing opens, and the machine slows down. From the E01 image alone: PowerShell had turned off Defender and pointed `www.sysinternals.com` to a local server in the `hosts` file, the fake download installed a service running as SYSTEM, and Ghidra shows that service deleting every Prefetch file each second. The USN journal still recorded 214 of those deletions.
 
 <p>
-  <a href="https://github.com/M3RICK/WriteUps/blob/main/Ashemery/SysInternalsCase/SysInternalsCase-WriteUp.pdf"><img src="https://img.shields.io/badge/Read_the_write--up-E0267A?style=for-the-badge" alt="Read the SysInternalsCase write-up (PDF)"></a>
+  <a href="https://github.com/M3RICK/WriteUps/blob/main/Ashemery/SysInternalsCase/SysInternalsCase-WriteUp.pdf"><img src="https://img.shields.io/badge/Read_the_write--up-57606A?style=for-the-badge&logo=github&logoColor=white" alt="Read the SysInternalsCase write-up (PDF)"></a>
 </p>
 
 ### evtx_timeline
